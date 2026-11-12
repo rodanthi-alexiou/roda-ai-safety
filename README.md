@@ -1,3 +1,4 @@
+
 # Roda's AI Safety Playground
 
 A personal learning space for exploring AI safety papers through small,
@@ -10,6 +11,9 @@ Three overlapping lenses guide the exploration: **misuse** (harmful use),
 
 Work here is exploratory. Toy demonstrations are not paper replications or
 evidence that a system is safe.
+
+![Homer Simpson at a nuclear control panel: "Safe in the hands of AI. Wait a minute... AI don't have hands!"](assets/ai-safety-meme.png)
+
 
 ## Start here
 
@@ -36,8 +40,7 @@ On macOS/Linux, use `.venv/bin/python` in place of `.\.venv\Scripts\python`.
 - `LICENSE`: MIT for original work; cited papers and external data retain their
   own licenses.
 
-Learning starting points: [AI Safety Map](https://aisafety.com/map) and
-[BlueDot technical AI safety](https://bluedot.org/courses/technical-ai-safety).
+Learning starting points: [AI Safety Map](https://aisafety.com/map) 
 Paper references sit beside the relevant notebook exercises.
 
 Before interpreting results, record the paper version, data provenance/license,
